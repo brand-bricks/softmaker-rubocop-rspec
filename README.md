@@ -1,0 +1,1 @@
+# softmaker-rubocop-rspec
